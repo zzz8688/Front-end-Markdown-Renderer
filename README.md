@@ -1,9 +1,3 @@
-#分支策略（核心！）：
-main：主分支，存放可运行的稳定代码，dev开发全部功能测试通过后提交；
-dev：开发分支，个人dev分支测试通过后提交到dev分支；
-个人dev分支：每个人从dev分支创建自己的功能分支，命名格式,例如dev_zgy
-
-
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
